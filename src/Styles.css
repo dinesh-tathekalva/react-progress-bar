@@ -10,7 +10,8 @@ body {
 }
 
 .progress {
-  position: relative; 
+  position: relative; /* with scale */
+  height: 20px;
   width: 500px;
   background-color: rgb(233, 236, 239);
   border: 1px solid #c5c5c5;
