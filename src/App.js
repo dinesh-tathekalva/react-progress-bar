@@ -19,5 +19,5 @@ export default function App() {
       <span>{success ? "Complete!" : "Loading..."}</span>
     </div>
   );
-  
+
 }
